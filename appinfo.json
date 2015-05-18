@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "aditya.sreekumar@gmail.com",
+    "longName": "Watchface_1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Watchface_1",
+    "uuid": "738935be-e2fa-44e7-aeea-a3cfd2863628",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
